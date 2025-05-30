@@ -1,7 +1,2 @@
-# Web alapok
-#### Branchek
-- main
-- gyakorlo
-- webprog
-- backend
-- adatbazis
+# Challenge branch
+Ezen a branchen a vegyes gyakorlófeladatok találhatóak.

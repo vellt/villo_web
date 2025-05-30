@@ -1,0 +1,12 @@
+Villő vagyok
+
+Most tanulom a webfejlesztés alapjait. Jelenleg a HTML-t és a CSS-t használatát tanulom és szorgalmasan gyakorlok!
+Mit tanultam eddig?
+    h1, p, ul HTML elemek
+    Alapvető CSS stílusok: color, background-color, font-family
+    Egyszerű elrendezések div, és flex segítségével
+
+TOP 3 CSS tulajdonságom
+    color – betűszín beállítása
+    border-radius – lekerekített sarkok
+    font-size – betűméret
