@@ -1,5 +1,7 @@
 # Web alapok
-https://github.com/Toinane/colorpicker/releases/tag/2.2.2
+#### Linkek
+- Colorpicker: https://github.com/Toinane/colorpicker/releases/tag/2.2.2
+- VisualStudio: https://code.visualstudio.com/download
 #### Branchek
 - main
 - gyakorlo
