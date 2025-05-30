@@ -1,2 +1,2 @@
-# Challenge branch
-Ezen a branchen a vegyes gyakorlófeladatok találhatóak.
+# Webprog branch
+Ezen a branchen az órai feladatok forrásai találhatóak.
