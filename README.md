@@ -2,6 +2,7 @@
 #### Branchek
 - main
 - gyakorlo
-- webprog
-- backend
-- adatbazis
+- webprog_forras
+- webprog_megoldas
+- ~~backend~~
+- ~~adatbazis~~
