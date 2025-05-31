@@ -2,6 +2,7 @@
 #### Linkek
 - Colorpicker: https://github.com/Toinane/colorpicker/releases/tag/2.2.2
 - VisualStudio: https://code.visualstudio.com/download
+- flexboxfroggy: https://flexboxfroggy.com/#hu
 #### Branchek
 - main
 - gyakorlo
